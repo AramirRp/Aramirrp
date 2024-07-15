@@ -26,7 +26,7 @@ I'm also a photographer & muscian. but for now, my next album is a complete secr
 [![Instagram](icons/instagram.png)](https://www.instagram.com/antoinerp/)
 
 **Currently working with:**
-<a href="https://react.dev" title="React"><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=F7DF1E" /></a>
+<a href="https://react.dev" title="React"><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" /></a>
 <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
