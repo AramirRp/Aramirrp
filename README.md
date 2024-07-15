@@ -21,9 +21,10 @@ I'm also a photographer & muscian. but for now, my next album is a complete secr
 
 **Social Media:**
 [![GitHub](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032)](https://github.com/AramirRp)
-[![Twitter](https://img.shields.io/badge/twitter-F05032?logo=twitter&logoColor=282C34)](https://twitter.com/antoinerp)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?logo=twitter&logoColor=282C34)](https://twitter.com/antoinerp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/antoinerp/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/antoinerp/)
+[![Instagram](https://img.shields.io/badge/Instagram-282C34?logo=instagram&logoColor=E4405F)](https://www.instagram.com/antoinerp/)
+E4405F
 
 **Currently working with:**
 <a href="https://react.dev" title="React"><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" /></a>
