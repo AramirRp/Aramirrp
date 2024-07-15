@@ -21,7 +21,7 @@ I'm also a photographer & muscian. but for now, my next album is a complete secr
 
 **Social Media:**
 [![GitHub](https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032)](https://github.com/AramirRp)
-[![Twitter](icons/twitter.png)](https://twitter.com/antoinerp)
+[![Twitter](https://img.shields.io/badge/twitter-F05032?logo=git&logoColor=282C34)](https://twitter.com/antoinerp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/antoinerp/)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/antoinerp/)
 
