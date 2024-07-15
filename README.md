@@ -47,4 +47,6 @@ I'm also a photographer & muscian. but for now, my next album is a complete secr
 <a href="https://laravel.com" title="Laravel"><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" /></a>
 
 
-<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/l0Iy2meehfq5AFCFy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kimmyschmidt-l0Iy2meehfq5AFCFy"></a></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AramirRp/Aramirrp/main/giphy.webp">
+</p>
