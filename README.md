@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./github-header-image.png)
 
 
 I'm  Antoine, newbie front-end/fullstack dev, currently at Ada tech School in Paris. 
