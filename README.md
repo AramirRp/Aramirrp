@@ -1,5 +1,6 @@
+![Header](./your-header-image-name.png)
 
-## 🚀 Hey !
+
 I'm  Antoine, newbie front-end/fullstack dev, currently at Ada tech School in Paris. 
 
 My current favorite stacks are React and Tailwind on the front-end, and Python/Django for the back-end.
