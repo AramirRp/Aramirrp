@@ -40,11 +40,16 @@ I'm also a photographer & muscian. but for now, my next album is a complete secr
 <a href="https://www.mysql.com/" title="MySQL"><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" /></a>
 
-## Will learn in the future:
 
 <a href="https://www.docker.com/" title="Docker"><img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" /></a>
 <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" /></a>
 <a href="https://laravel.com" title="Laravel"><img src="https://img.shields.io/badge/Laravel-282C34?logo=laravel&logoColor=FF2D20" /></a>
+
+## currently learning:
+
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" /></a>
+<a href="https://reactnative.dev/" title="React Native"><img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=" /></a>
+<a href="https://expo.dev/" title="Expo"><img src="https://img.shields.io/badge/Expo-000000?logo=Expo&logoColor=white" /></a>
 
 
 <p align="center">
