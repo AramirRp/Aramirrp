@@ -47,7 +47,6 @@ I'm also a photographer & muscian. but for now, my next album is a complete secr
 
 ## currently learning:
 
-<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" /></a>
 <a href="https://reactnative.dev/" title="React Native"><img src="https://img.shields.io/badge/ReactNative-222222?style=for-the-badge&logo=React&logoColor=" /></a>
 <a href="https://expo.dev/" title="Expo"><img src="https://img.shields.io/badge/Expo-000000?logo=Expo&logoColor=white" /></a>
 
