@@ -3,7 +3,7 @@
 
 🎓 I'm  Antoine, newbie front-end/fullstack dev, currently at Ada tech School in Paris. 
 
-⌨ My current favorite stacks are React and Tailwind on the front-end, and Python/Django for the back-end.
+⌨ My current favorite stacks are NextJs and Tailwind on the front-end, and Laravel or NestJs for the back-end.
 
 I'm currently studying at Ada Tech School, a 2-year program to become a full stack developer. Ada Tech School follows an alternative pedagogy emphasizing inclusivity and learning through hands-on experience, allowing me to deepen my expertise in front-end technologies while also cultivating my back-end skills.
 
@@ -24,7 +24,8 @@ I'm also a photographer & muscian. but for now, my next album is a complete secr
 
 ## Currently working with:
 
-<a href="https://react.dev" title="React"><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" /></a>
+<a href="" title="React"><img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" /></a>
+<a href="https://react.dev" title="Next"><img src="https://img.shields.io/badge/Next-282C34?logo=next&logoColor=61DAFB" /></a>
 <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" /></a>
 <a href="https://tailwindcss.com" title="Tailwind CSS"><img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" /></a>
 <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=181717" /></a>
@@ -38,6 +39,7 @@ I'm also a photographer & muscian. but for now, my next album is a complete secr
 <a href="https://www.python.org/" title="Python"><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" /></a>
 <a href="https://www.djangoproject.com" title="Django"><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" /></a>
 <a href="https://www.mysql.com/" title="MySQL"><img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" /></a>
+<a href="" title="graphQL"><img src="https://img.shields.io/badge/graphql-282C34?logo=graphql&logoColor=4379A1" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" /></a>
 
 
