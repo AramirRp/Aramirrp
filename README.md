@@ -26,15 +26,9 @@ Pronouns: **he/him**
 
 ## 🚀 Pinned Projects
 
-### 🌐 Portfolio
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AramirRp&repo=Portfolio&theme=dark)](https://github.com/AramirRp/Portfolio)
-
-[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=github)](https://portfolio-antoinerp.vercel.app)
-
-### 🎮 HypoMeter
-[![HypoMeter](https://github-readme-stats.vercel.app/api/pin/?username=AramirRp&repo=HypoMeter&theme=dark)](https://github.com/AramirRp/HypoMeter)
-
-[![Visit HypoMeter](https://img.shields.io/badge/Visit-HypoMeter-blue?style=for-the-badge&logo=github)](https://hypolegacy.vercel.app)
+| Portfolio | HypoMeter |
+|-----------|-----------|
+| [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AramirRp&repo=Portfolio&theme=dark)](https://github.com/AramirRp/Portfolio)<br>[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=github)](https://portfolio-antoinerp.vercel.app) | [![HypoMeter](https://github-readme-stats.vercel.app/api/pin/?username=AramirRp&repo=HypoMeter&theme=dark)](https://github.com/AramirRp/HypoMeter)<br>[![Visit HypoMeter](https://img.shields.io/badge/Visit-HypoMeter-blue?style=for-the-badge&logo=github)](https://hypolegacy.vercel.app) |
 
 ---
 
