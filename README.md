@@ -24,6 +24,13 @@ Pronouns: **he/him**
 
 ---
 
+## 🚀 Pinned Projects
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=AramirRp&repo=portfolio-antoinerp&theme=dark)](https://github.com/AramirRp/Portfolio)
+
+
+---
+
 ## 🌐 Social Media
 [![GitHub](https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717)](https://github.com/AramirRp)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/antoinerp/)
