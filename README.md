@@ -1,7 +1,7 @@
 ![Header](./github-header-antoinerp.png)
 
 # Hi there 👋  
-🎓 I'm Antoine, a **Fullstack & Mobile Developer**, currently working at **TKorp**.  
+🎓 I'm Antoine, a **Fullstack Developer**, currently working at **Citopia**.  
 
 ⌨️ My current stacks are:  
 - **Next.js** and **Tailwind CSS** for the front-end  
