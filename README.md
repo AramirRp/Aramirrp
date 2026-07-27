@@ -4,8 +4,8 @@
 🎓 I'm Antoine, a **Fullstack Developer**, currently working at **Citopia**.  
 
 ⌨️ My current stacks are:  
-- **Next.js** and **Tailwind CSS** for the front-end  
-- **NestJS** for the back-end  
+- **React** and **CSS** for the front-end  
+- **Fastify** for the back-end  
 - **React Native** (Expo) for mobile  
 
 On the side, I'm developing small projects such as **web extensions for Twitch** and **mobile apps**.  
